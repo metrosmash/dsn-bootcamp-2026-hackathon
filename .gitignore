@@ -1,0 +1,7 @@
+**/mlruns/
+*.csv
+**/data/
+*.pdf
+*.zip
+*.db
+**/.ipynb_checkpoints/
